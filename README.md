@@ -66,11 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmax&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" width="550" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvmax&theme=neon&no-frame=false&no-bg=true&margin-w=4" alt="trophies" width="500" />
-</p>
 
 ### 🔝 Top Contributed Repo
 
