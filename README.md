@@ -27,7 +27,7 @@
 - **🌱 Currently working on:** Fullstack Development, DSA, Cybersecurity (and a bit of AI... maybe 😁)<br><br>
 - **🤝 Open to collaborate on:** Interesting & impactful projects — crazy & humorous ones too! (Ready to intern!)<br><br>
 - **🌐 Portfolio:** [portfoliowebsite-rho-seven.vercel.app](upcoming) _(too lazy to update, check LinkedIn 😅)_<br><br>
-- **✍️ Articles:** [LinkedIn Posts](https://www.linkedin.com/dhruvmax)<br><br>
+- **✍️ Articles:** [LinkedIn Posts](https://www.linkedin.com/in/dhruvmax/)<br><br>
 - **📧 Reach me:** dhruvgupta2602@gmail.com<br><br>
 - **🤯 Fun fact:** Take care of machines they will take care of you .
 
